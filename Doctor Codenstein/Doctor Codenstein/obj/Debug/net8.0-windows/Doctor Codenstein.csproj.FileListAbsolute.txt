@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\bin\Debug\net8.0-windows\Doctor Codenstein.exe
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\bin\Debug\net8.0-windows\Doctor Codenstein.deps.json
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\bin\Debug\net8.0-windows\Doctor Codenstein.runtimeconfig.json
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\bin\Debug\net8.0-windows\Doctor Codenstein.dll
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\bin\Debug\net8.0-windows\Doctor Codenstein.pdb
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor_Codenstein.Form1.resources
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor_Codenstein.Properties.Resources.resources
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor Codenstein.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor Codenstein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor Codenstein.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor Codenstein.AssemblyInfo.cs
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor Codenstein.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor Codenstein.dll
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\refint\Doctor Codenstein.dll
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor Codenstein.pdb
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\Doctor Codenstein.genruntimeconfig.cache
+C:\Users\User\source\repos\Doctor Codenstein\Doctor Codenstein\obj\Debug\net8.0-windows\ref\Doctor Codenstein.dll
